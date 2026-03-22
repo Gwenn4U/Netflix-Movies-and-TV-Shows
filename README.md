@@ -60,6 +60,8 @@ Ensure you have the required libraries installed:
 
 Bash
 pip install pandas matplotlib seaborn
+
+
 Run the HelloWorld_netflix_clean.ipynb notebook to see the full analysis and visualizations. 
 
 <img width="497" height="525" alt="MovieVsTVshows" src="https://github.com/user-attachments/assets/0867be8c-9cfb-43ed-94f0-2c75397a5140" />
